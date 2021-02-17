@@ -31,9 +31,9 @@
 - [Html5hub Projects](http://html5hub.com/projects)
 - [Library - codyhouse](https://codyhouse.co/library)
 - [Event - schema.org](https://schema.org/event)
-- [Schema creator for &#39;person&#39; schema.org microdata](http://schema-creator.org/person.php)
+- [Schema creator for person schema.org microdata](http://schema-creator.org/person.php)
 - [Style Maban](http://style.maban.co.uk)
-- [Dirty markup &middot; tidy up your html css](http://www.dirtymarkup.com)
+- [Dirty markup tidy up your html css](http://www.dirtymarkup.com)
 - [Slick](https://kenwheeler.github.io/slick)
 - [Mcdlr 8](http://mcdlr.com/8)
 - [Fbrctr](https://fbrctr.github.io)
@@ -42,7 +42,7 @@
 - [Dhtmlx](https://dhtmlx.com)
 
 ### MAPS
-- [Maps for the web made easy &mdash; cartodb](http://cartodb.com)
+- [Maps for the web made easy cartodb](http://cartodb.com)
 - [Mapbox - design and publish beautiful maps](https://www.mapbox.com)
 
 ### GRID
@@ -117,7 +117,7 @@
 - [Wave app](https://www.waveapps.com)
 - [Code pad](http://codepad.co)
 - [Setmore - free online appointment calendar schedul](https://www.setmore.com)
-- [Debitoor - programma di fatturazione e contabilit&agrave; gratis](https://debitoor.it)
+- [Debitoor](https://debitoor.it)
 
 ### BOOK- MARKS
 - [Collex](http://collex.io)
@@ -160,13 +160,13 @@
 ### ANALYTICS
 - [Css stats](https://cssstats.com)
 - [Hotjar form analytics feedback polls](https://www.hotjar.com)
-- [Google analytics official website &ndash; web analytics &amp; reporting](https://www.google.com/analytics)
+- [Google analytics official website web analytics - reporting](https://www.google.com/analytics)
 - [Builtwith technology lookup](https://builtwith.com)
-- [Down for everyone or just me -&gt; check if your webs](https://downforeveryoneorjustme.com)
+- [Down for everyone or just me - check if your webs](https://downforeveryoneorjustme.com)
 - [What is the embed api - overview - analytics embed](https://developers.google.com/analytics/devguides/reporting/embed/v1)
 
 ### PORTFOLIO
-- [Coroflot &mdash; design jobs &amp; portfolios](http://www.coroflot.com)
+- [Coroflot design jobs - portfolios](http://www.coroflot.com)
 - [Linkedin redesign concept on behance](https://www.behance.net/gallery/19176671/linkedin-design-concept)
 - [Gonza Loperez](http://www.gonzaloperez.ws)
 
