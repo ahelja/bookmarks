@@ -33,7 +33,7 @@
 - [Event - schema.org](https://schema.org/event)
 - [Schema creator for &#39;person&#39; schema.org microdata](http://schema-creator.org/person.php)
 - [Style Maban](http://style.maban.co.uk)
-- [Dirty markup &middot; tidy up your html, css](http://www.dirtymarkup.com)
+- [Dirty markup &middot; tidy up your html css](http://www.dirtymarkup.com)
 - [Slick](https://kenwheeler.github.io/slick)
 - [Mcdlr 8](http://mcdlr.com/8)
 - [Fbrctr](https://fbrctr.github.io)
@@ -42,7 +42,7 @@
 - [Dhtmlx](https://dhtmlx.com)
 
 ### MAPS
-- [Maps for the web, made easy &mdash; cartodb](http://cartodb.com)
+- [Maps for the web made easy &mdash; cartodb](http://cartodb.com)
 - [Mapbox - design and publish beautiful maps](https://www.mapbox.com)
 
 ### GRID
@@ -54,11 +54,11 @@
 
 ### KANBAN
 - [Trello](https://trello.com)
-- [Improve your productivity by thinking visually - kanbanchi](http://www.kanbanchi.com)
+- [Kanbanchi](http://www.kanbanchi.com)
 
 ### PACKAGE MANAGER
-- [Homebrew &mdash; the missing package manager for os x](https://brew.sh)
-- [Chocolatey gallery](https://chocolatey.org)
+- [Homebrew](https://brew.sh)
+- [Chocolatey](https://chocolatey.org)
 
 ### ICON
 - [Mcdlr.com/8](http://mcdlr.com/8)
@@ -74,16 +74,12 @@
 
 ### BOOK
 - [Free and liberated ebooks](https://standardebooks.org/ebooks)
-- [Leanpub.com/authors](https://leanpub.com/authors)
+- [Leanpub](https://leanpub.com/authors)
 
 ### WEB ANNOTATION
 - [Redpen](https://redpen.io)
-- [Trackduck.com/en](https://trackduck.com/en)
+- [Trackduck](https://trackduck.com/en)
 - [Bounceapp](https://bounceapp.com)
-
-### VCS
-- [Github](https://github.com)
-- [Git and mercurial code management for teams](https://bitbucket.org)
 
 ### COOLOFFLINE
 - [Stickermule](http://www.stickermule.com)
@@ -97,30 +93,30 @@
 - [Elastic](http://www.elastic.io)
 
 ### PM
-- [Taiga.io - agile, open source, free project manage](https://taiga.io)
+- [Taiga](https://taiga.io)
 - [Email address encoder](http://wbwip.com/wbw/emailencoder.html)
-- [Google.it/nonprofits/products](https://www.google.it/nonprofits/products)
+- [Google nonprofits products](https://www.google.it/nonprofits/products)
 
 ### MAG
 - [Homepage - smithsonian](http://www.smithsonianmag.com)
 - [Flipboard](https://share.flipboard.com)
 
 ### IMAGE BANK
-- [Flickr.com/photos/internetarchivebookimages](https://www.flickr.com/photos/internetarchivebookimages)
-- [Welcome the internet archive to the commons - flickr blog](https://blog.flickr.net/2014/08/29/welcome-the-internet-archive-to-the-commons)
+- [Internet archive book images - flickr](https://www.flickr.com/photos/internetarchivebookimages)
+- [internet archive - flickr](https://blog.flickr.net/2014/08/29/welcome-the-internet-archive-to-the-commons)
 
 ### JOBS
-- [Jobs - designer news](https://news.layervault.com/jobs)
+- [Layervault](https://news.layervault.com/jobs)
 - [Github jobs](https://jobs.github.com)
-- [Job board - shoptalk](http://shoptalkshow.com/jobs)
+- [Shoptalkshow jobs](http://shoptalkshow.com/jobs)
 
 ### APPLE
-- [Klantenservice: serienummers](http://www.chipmunk.nl/klantenservice/applemodel.html)
+- [Klanten service serienummers](http://www.chipmunk.nl/klantenservice/applemodel.html)
 
 ### CLOUD
 - [Wave app](https://www.waveapps.com)
 - [Code pad](http://codepad.co)
-- [Setmore - free online appointment calendar, schedul](https://www.setmore.com)
+- [Setmore - free online appointment calendar schedul](https://www.setmore.com)
 - [Debitoor - programma di fatturazione e contabilit&agrave; gratis](https://debitoor.it)
 
 ### BOOK- MARKS
@@ -129,8 +125,8 @@
 - [Frontend-tools](http://fredsarmento.me/frontend-tools)
 
 ### WYSIWYG
-- [Medium editor - demo](https://daviferreira.github.io/medium-editor)
-- [Example - sir trevor js - made by many](https://madebymany.github.io/sir-trevor-js/example.html)
+- [Medium editor](https://daviferreira.github.io/medium-editor)
+- [Example - sir trevor js](https://madebymany.github.io/sir-trevor-js/example.html)
 
 ### JS RESPONSIVE
 - [Responsivejs](http://www.responsivejs.com)
@@ -139,32 +135,31 @@
 
 ### OPTIMISATION
 - [Gtmetrix - website speed and performance optimizat](https://gtmetrix.com)
-- [Seo tools, software and articles - seo site checku](http://seositecheckup.com)
+- [Seo tools software and articles - seo site checku](http://seositecheckup.com)
 - [Pagespeed insights](https://developers.google.com/speed/pagespeed/insights)
 
 ### STYLE
-- [Demo.sassline](https://demo.sassline.com)
+- [Sassline](https://demo.sassline.com)
 - [Cssstats](http://cssstats.com)
 
 ### INDEX-ZXY
-- [Brunildo.org/test/overflowxy2.html](http://www.brunildo.org/test/overflowxy2.html)
+- [Brunildo overflowxy2](http://www.brunildo.org/test/overflowxy2.html)
 - [Appshopper](https://appshopper.com)
 
 ### TOS PRIVACY POLICY
-- [Privacy policy / terms of service generator](http://www.bennadel.com/coldfusion/privacy-policy-generator.htm#primary-navigation)
+- [Privacy policy - terms of service generator](http://www.bennadel.com/coldfusion/privacy-policy-generator.htm#primary-navigation)
 - [Privacy](https://privacy.com)
 - [Datacoup](https://datacoup.com)
 
 ### BOOTSTRAP
-- [Tiny, opensource, bootstrap wysiwyg rich text edit](https://mindmup.github.io/bootstrap-wysiwyg)
+- [Tiny opensource bootstrap wysiwyg](https://mindmup.github.io/bootstrap-wysiwyg)
 - [Shoelace - visual bootstrap 3 grid builder](http://shoelace.io)
-- [Style.maban.co.uk](http://style.maban.co.uk)
-- [Speakerdeck.com/mdo/build-your-own-bootstrap](https://speakerdeck.com/mdo/build-your-own-bootstrap)
-- [Playbook.cio.gov/designstandards](https://playbook.cio.gov/designstandards)
+- [Speakerdeck bootstrap](https://speakerdeck.com/mdo/build-your-own-bootstrap)
+- [Playbook designstandards](https://playbook.cio.gov/designstandards)
 
 ### ANALYTICS
-- [Cssstats](https://cssstats.com)
-- [Hotjar form analytics, feedback polls](https://www.hotjar.com)
+- [Css stats](https://cssstats.com)
+- [Hotjar form analytics feedback polls](https://www.hotjar.com)
 - [Google analytics official website &ndash; web analytics &amp; reporting](https://www.google.com/analytics)
 - [Builtwith technology lookup](https://builtwith.com)
 - [Down for everyone or just me -&gt; check if your webs](https://downforeveryoneorjustme.com)
@@ -173,15 +168,15 @@
 ### PORTFOLIO
 - [Coroflot &mdash; design jobs &amp; portfolios](http://www.coroflot.com)
 - [Linkedin redesign concept on behance](https://www.behance.net/gallery/19176671/linkedin-design-concept)
-- [Gonzaloperez](http://www.gonzaloperez.ws)
+- [Gonza Loperez](http://www.gonzaloperez.ws)
 
 ### TURTLE COMM
 - [Pinger makes texting and talking free](http://www.pinger.com/content/home.html)
 
 ### PATTERN
 - [Plain pattern](http://www.kennethcachia.com/plain-pattern/app)
-- [Issuu.com/janjaneczek](https://issuu.com/janjaneczek)
-- [Styleguides](http://styleguides.io)
+- [Janjaneczek issuu](https://issuu.com/janjaneczek)
+- [Style Guides](http://styleguides.io)
 - [Patternlab](http://patternlab.io)
 
 ### GUERRILLA
@@ -192,4 +187,4 @@
 - [Typeform](http://www.typeform.com)
 
 ### KEYBOARD
-- [Ortholinearkeyboards](http://ortholinearkeyboards.com)
+- [Ortho linear keyboards](http://ortholinearkeyboards.com)
