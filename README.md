@@ -10,7 +10,6 @@
 - [www.skillshare.com](https://www.skillshare.com)
 
 ### DRAW
-- [mojaveapp.com/#/dashboard](http://https://mojaveapp.com/#/dashboard)
 - [www.janvas.com](https://www.janvas.com)
 - [resources.jointjs.com/demos/kitchensink](http://resources.jointjs.com/demos/kitchensink)
 
@@ -19,14 +18,12 @@
 - [github.com/DaveDavenport/rofi](https://github.com/DaveDavenport/rofi)
 
 ### HTML PRINT
-- [textfilter.me](https://textfilter.me)
 - [www.printfriendly.com](https://www.printfriendly.com)
 
 ### WPT
 - [GenerateWP - User friendly tools for WordPress developers](http://generatewp.com)
 - [Tales](http://themes.dbushell.com/tales)
-- [openshift/wordpress-example](https://github.com/openshift/wordpress-example)
-- [wpremote.com/login](https://wpremote.com/login)
+- [wpremote.com/login](https://wpremote.com/)
 - [github.com/wp-sync-db/wp-sync-db](https://github.com/wp-sync-db/wp-sync-db)
 
 ### BROWSER ADDONS
@@ -43,7 +40,6 @@
 - [Dirty Markup &middot; Tidy up your HTML, CSS, and JavaScr](http://www.dirtymarkup.com)
 - [kenwheeler.github.io/slick](https://kenwheeler.github.io/slick)
 - [mcdlr.com/8](http://mcdlr.com/8)
-- [tutorial](http://tutorial)
 - [fbrctr.github.io](https://fbrctr.github.io)
 - [mavo.io/docs/primer](https://mavo.io/docs/primer)
 - [kyusuf.com](https://kyusuf.com)
