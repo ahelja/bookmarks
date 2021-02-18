@@ -78,7 +78,6 @@
 
 ### WEB ANNOTATION
 - [Redpen](//redpen.io)
-- [Trackduck](//trackduck.com/en)
 - [Bounceapp](//bounceapp.com)
 
 ### COOLOFFLINE
@@ -188,3 +187,5 @@
 
 ### KEYBOARD
 - [Ortho linear keyboards](//ortholinearkeyboards.com)
+- [Pimpmy keyboard](//pimpmykeyboard.com/grab-bags/)
+- [Keycap lendar](https://keycaplendar.firebaseapp.com/)
