@@ -50,7 +50,7 @@
 - [Gridlover](//www.gridlover.net)
 
 ### SVN LOL
-- [Gotofritz.net/blog/howto/svn-status-codes](//web.archive.org/web/20151220032025///gotofritz.net/blog/howto/svn-status-codes)
+- [Gotofritz](//web.archive.org/web/20151220032025///gotofritz.net/blog/howto/svn-status-codes)
 
 ### KANBAN
 - [Trello](//trello.com)
@@ -61,7 +61,7 @@
 - [Chocolatey](//chocolatey.org)
 
 ### ICON
-- [Mcdlr.com/8](//mcdlr.com/8)
+- [Mcdlr](//mcdlr.com/8)
 - [Fontello](//fontello.com)
 - [Icomoon](//icomoon.io)
 - [Glyphter](//glyphter.com)
@@ -83,7 +83,7 @@
 
 ### COOLOFFLINE
 - [Stickermule](//www.stickermule.com)
-- [It.camelcamelcamel](//it.camelcamelcamel.com)
+- [camelcamelcamel](//it.camelcamelcamel.com)
 - [Keepa](//keepa.com)
 
 ### AUTOMATION
