@@ -171,6 +171,7 @@
 
 ### TURTLE COMM
 - [Pinger makes texting and talking free](//www.pinger.com/content/home.html)
+- [Antisip](//www.antisip.com/)
 
 ### PATTERN
 - [Plain pattern](//www.kennethcachia.com/plain-pattern/app)
@@ -188,7 +189,7 @@
 ### KEYBOARD
 - [Ortho linear keyboards](//ortholinearkeyboards.com)
 - [Pimpmy keyboard](//pimpmykeyboard.com/grab-bags/)
-- [Keycap lendar](https://keycaplendar.firebaseapp.com/)
+- [Keycap lendar](//keycaplendar.firebaseapp.com/)
 
 ### REMOTE LOGIN 
-- [remote.it](https://remote.it/developers/)
+- [remote.it](//remote.it/developers/)
